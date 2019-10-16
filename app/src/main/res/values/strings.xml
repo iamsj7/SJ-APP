@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SJ APP</string>
+    <string name="action_about">About</string>
+
+    <!-- About -->
+    <string name="about_title">About App</string>
+    <string name="about_us">Shaik Jaleel App</string>
+    <string name="sum_about_app">About this app, version, information</string>
+    <string name="about_app_version">Version</string>
+    <string name="about_app_version_sum">1.1</string>
+    <string name="developer_info">Developer Info</string>
+    <string name="developer_info_sum">Shaik Jaleel (@iamsj7)</string>
+    <string name="app_info_drop_target_label">App Info</string>
 </resources>
