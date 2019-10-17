@@ -12,12 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".SettingsActivity"
-            android:label="About"
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
+                android:value="com.iamshaikjaleel.SJAPP.MainActivity" />
         </activity>
         <activity
             android:name=".MainActivity"

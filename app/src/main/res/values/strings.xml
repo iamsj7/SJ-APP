@@ -1,14 +1,18 @@
 <resources>
     <string name="app_name">SJ APP</string>
-    <string name="action_about">About</string>
 
     <!-- About -->
-    <string name="about_title">About App</string>
-    <string name="about_us">Shaik Jaleel App</string>
-    <string name="sum_about_app">About this app, version, information</string>
-    <string name="about_app_version">Version</string>
-    <string name="about_app_version_sum">1.1</string>
+    <string name="about_us">SJ App</string>
+    <string name="sum_about_app">About this app, version etc.</string>
+    <string name="about_app_version">App Version</string>
+    <string name="about_app_version_sum">BETA 1.0</string>
     <string name="developer_info">Developer Info</string>
     <string name="developer_info_sum">Shaik Jaleel (@iamsj7)</string>
     <string name="app_info_drop_target_label">App Info</string>
+    <string name="title_activity_home">Know More</string>
+    <string name="dev_header">Shaik Jaleel</string>
+    <string name="app_info_sum">Settings App Info</string>
+    <string name="about_title">About</string>
+    <string name="info_title">App Developer</string>
+    <string name="info_sum">Know More</string>
 </resources>
