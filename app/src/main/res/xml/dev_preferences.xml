@@ -21,6 +21,9 @@
         android:title="@string/developer_info"
         android:summary="@string/developer_info_sum"
         android:persistent="false">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="http://www.github.com/iamsj7" />
     </Preference>
 
 </PreferenceScreen>
